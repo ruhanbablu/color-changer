@@ -18,6 +18,9 @@
     align-items: flex-end;
 
 }
+body{
+    background-color: #f15025;
+}
 .nav-bar{
     /* height: 50px; */
     box-shadow:0px 5px 5px rgba(0, 0, 0, .2);
